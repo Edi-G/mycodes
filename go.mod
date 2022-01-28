@@ -1,4 +1,4 @@
-module myquotes.go
+module github.com/Edi-G/mycodes
 
 go 1.17
 
